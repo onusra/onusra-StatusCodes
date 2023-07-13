@@ -14,6 +14,7 @@ public class JavalinSingleton {
     public static void main (String [] args){
         
     }
+    
     public static Javalin getInstance(){
         Javalin app = Javalin.create();
         
